@@ -14,3 +14,4 @@ These are really neat and I highly reccomend trying them out if you're making a 
 The Contact Me and Send a Message forms do not work and need to be fixed. <br>
 Fix up images and working links to past projects. <br>
 Ensure HTTPS is working.
+Get new icon for iPhone link preview.  Flavicon is too low-res.
