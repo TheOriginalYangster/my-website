@@ -1,6 +1,6 @@
 
 # About
-This is a personal website I am making that will eventually be hosted on www.williamsimoneyang.com.
+This is a personal website I am making/updating that is hosted on www.williamsimoneyang.com.
 I purchaced a template from <a href="https://elements.envato.com">Elements Evanto</a> and am editing it to fit my needs.
 
 # Icons
