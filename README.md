@@ -8,5 +8,5 @@ I am using <a href="https://konpa.github.io/devicon/">DEVICON</a> for the icons 
 These are really neat and I highly reccomend trying them out if you're making a programming portfolio website.
 
 # To-Do
-The Contact Me and Send a Message forms do not work and need to be fixed.
+The Contact Me and Send a Message forms do not work and need to be fixed. <br>
 Fix up images and working links to past projects.
