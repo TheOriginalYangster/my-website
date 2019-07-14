@@ -910,6 +910,11 @@ label.error{
   width:100%;
 }
 
+.showcase-item-title a{
+  color: white;
+}
+
+
 .isotope-padding{
   padding-bottom: 15px;
 }
@@ -956,7 +961,7 @@ label.error{
   width: 100%;
   padding: 0 2em;
   text-align:center;
-  -webkit-transform:translateY(-50%));
+  -webkit-transform:translateY(-50%);
   -ms-transform:translateY(-50%);
   transform:translateY(-50%);
   -webkit-transition: all  0.3s ease-in;
