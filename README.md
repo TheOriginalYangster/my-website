@@ -12,5 +12,6 @@ These are really neat and I highly reccomend trying them out if you're making a 
 
 # To-Do
 The Contact Me and Send a Message forms do not work and need to be fixed. <br>
-Fix up images and working links to past projects. <br>
-Get new icon for iPhone link preview.  Flavicon is too low-res.
+Get new icon for iPhone link preview.  Flavicon is too low-res.<br>
+<strike>Fix up images and working links to past projects. <br>
+Ensure HTTPS is working properly.</strike>
