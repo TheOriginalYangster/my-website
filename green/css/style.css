@@ -910,9 +910,10 @@ label.error{
   width:100%;
 }
 
-.showcase-item-title a{
-  color: white;
+.showcase-item-title, a{
+  color: white !important;
 }
+
 
 
 .isotope-padding{
