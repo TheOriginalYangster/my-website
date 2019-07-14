@@ -1,6 +1,6 @@
 
 # About
-This is a personal website I am making/updating that is hosted on www.williamsimoneyang.com.
+This is a personal website I am making/updating that is hosted on https://www.williamsimoneyang.com. <br>
 I purchaced a template from <a href="https://elements.envato.com">Elements Evanto</a> and am editing it to fit my needs.
 
 # IT
@@ -13,5 +13,4 @@ These are really neat and I highly reccomend trying them out if you're making a 
 # To-Do
 The Contact Me and Send a Message forms do not work and need to be fixed. <br>
 Fix up images and working links to past projects. <br>
-Ensure HTTPS is working. <br>
 Get new icon for iPhone link preview.  Flavicon is too low-res.
