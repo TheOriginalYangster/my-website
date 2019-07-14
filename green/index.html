@@ -453,6 +453,7 @@
                 </div>
                 <div class="col-md-12 text-right">
                   <button type="submit" class="btn" data-text-hover="Submit">Send request</button>
+                  
                 </div>
               </div>
             </form>
@@ -535,7 +536,7 @@
             <h2 class="modal-title">Contact me</h2>
           </div>
           <div class="modal-body text-center">
-              <form class="form-request js-ajax-form">
+              <form class="form-request js-ajax-form" method="post" action="mail.php">
                 <div class="row-fields row">
                   <div class="form-group col-field">
                       <input type="text" class="form-control" name="name" required placeholder="Name *">
@@ -563,8 +564,9 @@
         <div class="modal-content">
           <div class="modal-header">
             <span class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></span>
-            <h2 class="modal-title">Thank you</h2>
-            <p class="modal-subtitle">Your message is successfully sent...</p>
+            <h2 class="modal-title">Thank you for trying</h2>
+            <p class="modal-subtitle">You can reach me at: will.yang361@gmail.com</p>
+            <p class="modal-subtitle">This feature is disabled until reCaptia is configured on the site</p>
           </div>
         </div>
     </div>
@@ -577,8 +579,9 @@
         <div class="modal-content">
           <div class="modal-header">
             <span class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></span>
-             <h2 class="modal-title">Sorry</h2>
-            <p class="modal-subtitle"> Something went wrong </p>
+            <h2 class="modal-title">Thank you for trying</h2>
+            <p class="modal-subtitle">You can reach me at: will.yang361@gmail.com</p>
+            <p class="modal-subtitle">This feature is disabled until reCaptia is configured on the site</p>
           </div>
         </div>
     </div>
