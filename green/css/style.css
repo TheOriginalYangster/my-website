@@ -398,7 +398,10 @@ label.error{
 
 /* 1.6 Icons */
 
-
+.block{
+  display: inline-block;
+  text-align: center;
+}
 
 .icon{
   font-size: 3em;
